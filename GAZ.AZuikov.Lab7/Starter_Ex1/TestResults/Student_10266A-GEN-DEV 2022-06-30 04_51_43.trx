@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fcac6c58-8620-49c8-91e8-dfa2ee012e1b" name="Student@10266A-GEN-DEV 2022-06-30 04:51:43" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="63150442-023f-4362-ac0f-2805b5a9e2b5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2022-06-30 04_51_43">
+      <DeploymentItem filename="E:\AZuikov\GAZ.AZyikov.Lab7\Starter_Ex1\StressTest\bin\Debug\StressTest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-06-30T04:51:43.7374921-07:00" queuing="2022-06-30T04:51:43.9953046-07:00" start="2022-06-30T04:51:44.0216718-07:00" finish="2022-06-30T04:51:44.1564374-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PerformStressTestTest" storage="e:\azuikov\gaz.azyikov.lab7\starter_ex1\stresstest unit test project\bin\debug\module 7 unit test project.dll" id="bbdebe19-d9b1-54e0-0b83-827f9b576015">
+      <Execution id="b6b6164a-994f-4a23-9548-6eb569cd8063" />
+      <TestMethod codeBase="E:/AZuikov/GAZ.AZyikov.Lab7/Starter_Ex1/StressTest Unit Test Project/bin/Debug/Module 7 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Module_7_Unit_Test_Project.StressTestCaseTest, Module 7 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PerformStressTestTest" />
+    </UnitTest>
+    <UnitTest name="GetStressTestResultTest" storage="e:\azuikov\gaz.azyikov.lab7\starter_ex1\stresstest unit test project\bin\debug\module 7 unit test project.dll" id="70b9a4e8-adeb-92de-9a22-c40ce6116f91">
+      <Execution id="e758f221-2244-42d8-bfff-013827b8b8d5" />
+      <TestMethod codeBase="E:/AZuikov/GAZ.AZyikov.Lab7/Starter_Ex1/StressTest Unit Test Project/bin/Debug/Module 7 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Module_7_Unit_Test_Project.StressTestCaseTest, Module 7 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetStressTestResultTest" />
+    </UnitTest>
+    <UnitTest name="StressTestCaseConstructorTest1" storage="e:\azuikov\gaz.azyikov.lab7\starter_ex1\stresstest unit test project\bin\debug\module 7 unit test project.dll" id="61c7c0c4-6e56-2e34-4cb3-02150288c418">
+      <Execution id="dc36c522-174b-4720-801f-940aa249062f" />
+      <TestMethod codeBase="E:/AZuikov/GAZ.AZyikov.Lab7/Starter_Ex1/StressTest Unit Test Project/bin/Debug/Module 7 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Module_7_Unit_Test_Project.StressTestCaseTest, Module 7 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StressTestCaseConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="StressTestCaseConstructorTest" storage="e:\azuikov\gaz.azyikov.lab7\starter_ex1\stresstest unit test project\bin\debug\module 7 unit test project.dll" id="4b5ca72b-c0e0-3aa2-217a-dcdd00acddfd">
+      <Execution id="4f7f447e-58d1-4343-b978-c316a11e13a6" />
+      <TestMethod codeBase="E:/AZuikov/GAZ.AZyikov.Lab7/Starter_Ex1/StressTest Unit Test Project/bin/Debug/Module 7 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Module_7_Unit_Test_Project.StressTestCaseTest, Module 7 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StressTestCaseConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="e:\azuikov\gaz.azyikov.lab7\starter_ex1\stresstest unit test project\bin\debug\module 7 unit test project.dll" id="1c2d0dcc-1bcf-b45e-8838-454d0c31bbcd">
+      <Execution id="0b01d035-3f14-44f1-872d-904b8c3a877d" />
+      <TestMethod codeBase="E:/AZuikov/GAZ.AZyikov.Lab7/Starter_Ex1/StressTest Unit Test Project/bin/Debug/Module 7 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Module_7_Unit_Test_Project.StressTestCaseTest, Module 7 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1c2d0dcc-1bcf-b45e-8838-454d0c31bbcd" executionId="0b01d035-3f14-44f1-872d-904b8c3a877d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b5ca72b-c0e0-3aa2-217a-dcdd00acddfd" executionId="4f7f447e-58d1-4343-b978-c316a11e13a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61c7c0c4-6e56-2e34-4cb3-02150288c418" executionId="dc36c522-174b-4720-801f-940aa249062f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70b9a4e8-adeb-92de-9a22-c40ce6116f91" executionId="e758f221-2244-42d8-bfff-013827b8b8d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbdebe19-d9b1-54e0-0b83-827f9b576015" executionId="b6b6164a-994f-4a23-9548-6eb569cd8063" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0b01d035-3f14-44f1-872d-904b8c3a877d" testId="1c2d0dcc-1bcf-b45e-8838-454d0c31bbcd" testName="ToStringTest" computerName="10266A-GEN-DEV" duration="00:00:00.0079335" startTime="2022-06-30T04:51:44.0255781-07:00" endTime="2022-06-30T04:51:44.1281171-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b01d035-3f14-44f1-872d-904b8c3a877d">
+    </UnitTestResult>
+    <UnitTestResult executionId="4f7f447e-58d1-4343-b978-c316a11e13a6" testId="4b5ca72b-c0e0-3aa2-217a-dcdd00acddfd" testName="StressTestCaseConstructorTest" computerName="10266A-GEN-DEV" duration="00:00:00.0001090" startTime="2022-06-30T04:51:44.1290937-07:00" endTime="2022-06-30T04:51:44.1300702-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f7f447e-58d1-4343-b978-c316a11e13a6">
+    </UnitTestResult>
+    <UnitTestResult executionId="dc36c522-174b-4720-801f-940aa249062f" testId="61c7c0c4-6e56-2e34-4cb3-02150288c418" testName="StressTestCaseConstructorTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0001141" startTime="2022-06-30T04:51:44.1310468-07:00" endTime="2022-06-30T04:51:44.1329999-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dc36c522-174b-4720-801f-940aa249062f">
+    </UnitTestResult>
+    <UnitTestResult executionId="e758f221-2244-42d8-bfff-013827b8b8d5" testId="70b9a4e8-adeb-92de-9a22-c40ce6116f91" testName="GetStressTestResultTest" computerName="10266A-GEN-DEV" duration="00:00:00.0005108" startTime="2022-06-30T04:51:44.1329999-07:00" endTime="2022-06-30T04:51:44.1369062-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e758f221-2244-42d8-bfff-013827b8b8d5">
+    </UnitTestResult>
+    <UnitTestResult executionId="b6b6164a-994f-4a23-9548-6eb569cd8063" testId="bbdebe19-d9b1-54e0-0b83-827f9b576015" testName="PerformStressTestTest" computerName="10266A-GEN-DEV" duration="00:00:00.0001520" startTime="2022-06-30T04:51:44.1369062-07:00" endTime="2022-06-30T04:51:44.1388593-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6b6164a-994f-4a23-9548-6eb569cd8063">
+    </UnitTestResult>
+  </Results>
+</TestRun>
