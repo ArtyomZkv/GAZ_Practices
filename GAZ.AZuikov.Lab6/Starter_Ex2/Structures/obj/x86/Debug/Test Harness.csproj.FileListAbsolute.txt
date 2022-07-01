@@ -1,0 +1,15 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\Structures.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\Structures.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.pdb
