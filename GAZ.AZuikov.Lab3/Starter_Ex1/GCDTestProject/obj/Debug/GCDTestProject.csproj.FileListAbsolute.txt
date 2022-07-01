@@ -1,0 +1,7 @@
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\obj\Debug\GCDTestProject.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\bin\Debug\GCDTestProject.dll
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\bin\Debug\GCDTestProject.pdb
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\bin\Debug\Module3.exe
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\bin\Debug\Module3.pdb
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\obj\Debug\GCDTestProject.dll
+E:\Labfiles\Lab 3\Ex1\Starter\GCDTestProject\obj\Debug\GCDTestProject.pdb
