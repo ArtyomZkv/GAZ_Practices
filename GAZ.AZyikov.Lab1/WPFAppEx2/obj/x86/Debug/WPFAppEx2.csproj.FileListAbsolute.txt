@@ -1,0 +1,12 @@
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\bin\Debug\WPFAppEx2.exe
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\bin\Debug\WPFAppEx2.pdb
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\MainWindow.baml
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\MainWindow.g.cs
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\App.g.cs
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\WPFAppEx2_MarkupCompile.cache
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\WPFAppEx2.g.resources
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\WPFAppEx2.Properties.Resources.resources
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\WPFAppEx2.csproj.GenerateResource.Cache
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\WPFAppEx2.exe
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\obj\x86\Debug\WPFAppEx2.pdb
+E:\AZuikov\GAZ.AZyikov.Lab1\WPFAppEx2\bin\Debug\DataFile.txt

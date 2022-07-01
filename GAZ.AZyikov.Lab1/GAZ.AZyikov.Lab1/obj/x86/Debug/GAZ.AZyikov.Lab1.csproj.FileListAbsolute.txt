@@ -1,0 +1,7 @@
+E:\AZyikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\bin\Debug\GAZ.AZyikov.Lab1.exe
+E:\AZyikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\bin\Debug\GAZ.AZyikov.Lab1.pdb
+E:\AZyikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\obj\x86\Debug\GAZ.AZyikov.Lab1.exe
+E:\AZyikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\obj\x86\Debug\GAZ.AZyikov.Lab1.pdb
+E:\AZyikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\bin\Debug\DataFile.txt
+E:\AZuikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\obj\x86\Debug\GAZ.AZyikov.Lab1.exe
+E:\AZuikov\GAZ.AZyikov.Lab1\GAZ.AZyikov.Lab1\obj\x86\Debug\GAZ.AZyikov.Lab1.pdb
